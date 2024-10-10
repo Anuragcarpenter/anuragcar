@@ -1,4 +1,6 @@
-![Screenshot 2024-10-07 153143](https://github.com/user-attachments/assets/eb7ece15-3db1-46a7-b534-fb4aae03f4b3)
+
+![image](https://github.com/user-attachments/assets/60680077-e0f1-440e-ad86-642bc08c185a)
+
 
 # Decentralized Fitness Tracker
 
