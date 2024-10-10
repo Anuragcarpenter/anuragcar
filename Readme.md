@@ -1,5 +1,4 @@
-![Uploading Screenshot 2024-10-07 153143.png…]()
-
+![Screenshot 2024-10-07 153143](https://github.com/user-attachments/assets/eb7ece15-3db1-46a7-b534-fb4aae03f4b3)
 
 # Decentralized Fitness Tracker
 
